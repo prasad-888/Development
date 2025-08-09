@@ -1,4 +1,4 @@
-alert("Something went wrong. Please try again later.");
+ alert("Something went wrong. Please try again later.");
 alert('Danger');
 let age = prompt('Enter your age');
 console.log('Your age is: ' + age);
